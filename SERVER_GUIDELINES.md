@@ -2,6 +2,7 @@
 # Server Guidelines
 
 These guidelines outline the policies and procedures for data and code management, as well as server usage and data protection. All laboratory members and users of our servers are expected to adhere to these rules.
+
 **Server Types Provided:** We offer large-scale clusters, data storage servers, GPU servers, and web servers.
 
 ---
